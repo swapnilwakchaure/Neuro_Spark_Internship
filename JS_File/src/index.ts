@@ -1,3 +1,6 @@
+// 1st day in Neuro Spark;
+// 11/09/2023
+
 console.log('typescript');
 
 let st: string = 'typescript';
